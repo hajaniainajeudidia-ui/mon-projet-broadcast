@@ -1,4 +1,3 @@
-```markdown
 # Système de Messagerie Broadcast
 
 Application complète de messagerie broadcast (Admin → Utilisateurs) avec temps réel.
@@ -43,8 +42,8 @@ Application complète de messagerie broadcast (Admin → Utilisateurs) avec temp
 
 ## Accès
 
--Frontend : http://localhost:5173
--Backend : http://localhost:5000
+- Frontend : http://localhost:5173
+- Backend : http://localhost:5000
 
 
 ---
