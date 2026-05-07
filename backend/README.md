@@ -1,4 +1,3 @@
-```markdown
 # Système de Messagerie Broadcast - Backend
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -39,6 +38,7 @@ Les utilisateurs peuvent consulter leurs messages, télécharger les fichiers jo
 1. Clone le dépôt :
    ```bash
    git clone https://github.com/VOTRE_USERNAME/nom-du-repo.git
+
    cd nom-du-repo
    ```
 
@@ -106,10 +106,8 @@ Ce projet est distribué sous licence **MIT**.
 
 Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
----
-
 Fait avec ❤️ en 2026
-```
 
----
+
+
 
