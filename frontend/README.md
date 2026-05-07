@@ -51,7 +51,7 @@ Permet aux administrateurs d’envoyer des messages texte ou fichiers à plusieu
 ![Register Page](assets/screenshots/register.png)
 
 ### 2. Interface d'envoi pour Administrateur (Diffusion)
-![Admin Broadcast](assets/screenshots/admin-broadcast.png)
+![Admin Broadcast](src/assets/screenshots/admin-broadcast.png)
 
 ### 3. Page de réception des messages (Utilisateur)
 ![Messages Page](assets/screenshots/messages.png)
