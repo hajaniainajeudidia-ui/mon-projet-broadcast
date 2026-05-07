@@ -47,23 +47,23 @@ Permet aux administrateurs d’envoyer des messages texte ou fichiers à plusieu
 ## Captures d'écran
 
 ### 1. Page de Connexion / Inscription
-![Login Page](assets/screenshots/login.png)
-![Register Page](assets/screenshots/register.png)
+![Login Page](src/assets/screenshots/login.png)
+![Register Page](src/assets/screenshots/register.png)
 
 ### 2. Interface d'envoi pour Administrateur (Diffusion)
 ![Admin Broadcast](src/assets/screenshots/admin-broadcast.png)
 
 ### 3. Page de réception des messages (Utilisateur)
-![Messages Page](assets/screenshots/messages.png)
+![Messages Page](src/assets/screenshots/messages.png)
 
 ### 4. Gestion des Utilisateurs (CRUD Admin)
-![Admin Users](assets/screenshots/admin-users.png)
+![Admin Users](src/assets/screenshots/admin-users.png)
 
 ### 5. Modal de formulaire de l'insertion de Utilisateurs
-![Admin Create Users](assets/screenshots/admin-create-users.png)
+![Admin Create Users](src/assets/screenshots/admin-create-users.png)
 
 ### 6. Modal de confirmation de suppression
-![Delete Modal](assets/screenshots/delete-modal.png)
+![Delete Modal](src/assets/screenshots/delete-modal.png)
 
 
 ---
