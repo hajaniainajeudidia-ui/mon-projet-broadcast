@@ -1,4 +1,3 @@
-```markdown
 # Système de Messagerie Broadcast - Frontend
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -78,6 +77,7 @@ Permet aux administrateurs d’envoyer des messages texte ou fichiers à plusieu
    ```
 
 2. Installe les dépendances :
+
    ```bash
    npm install
    ```
@@ -118,8 +118,3 @@ Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 ---
 
 Fait avec ❤️ en 2026
-```
-
-
-
----
